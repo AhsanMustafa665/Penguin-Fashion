@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Be+Vietnam+Pro:wght@400;700&family=Libre+Baskerville:wght@700&family=Lobster+Two:ital,wght@1,700&family=Mukta:wght@800&family=Playfair+Display:wght@500;700&family=Poppins:ital,wght@0,400;0,500;1,400&family=Roboto+Condensed:wght@700&family=Source+Serif+Pro:wght@700&family=Tangerine:wght@700&display=swap');
+
+
+h1,h3
+{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.man,.extra{
+    margin-top: 
+    130px;
+}
+.extra-2{
+    margin-top:-400px;
+    margin-left: 500px;
+}
+.footer-style{
+    margin-top: 55px;
+    padding-top: 30px;
+    height: 180px;
+    background-color: rgb(61, 28, 28);
+    color: white;
+    text-align: center;
+}
